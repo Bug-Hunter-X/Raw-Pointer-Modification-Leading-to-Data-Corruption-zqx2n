@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust involving raw pointers.  Modifying data through a raw pointer without proper care can lead to unexpected behavior and data corruption.  The `bug.rs` file shows the erroneous code, while `bugSolution.rs` provides a safer alternative using safer Rust constructs.
